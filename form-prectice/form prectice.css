@@ -1,0 +1,159 @@
+head,
+body {
+  background-color: #f0ebf8;
+}
+/* 可以先設背景色看有無其他爆表 */
+form {
+  margin: 0 auto;
+  width: 640px;
+  text-align: left;
+  padding: 12px;
+}
+
+section {
+  margin: 12px 12px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  width: 640px;
+  border: 1px solid #dadce0;
+  padding: 24px;
+}
+
+h1 {
+  font-size: 32px;
+  padding-left: 18px;
+}
+
+div {
+  width: 640px;
+  padding: 12px;
+}
+
+label {
+  padding: 12px 0 16px 12px;
+}
+input {
+  outline: none;
+}
+select {
+  outline: 1px solid #dadce0;
+  border-radius: 4px;
+  padding: 8px 48px 8px 0px;
+  color: rgba(0, 0, 0, 0.54);
+  text-align: left;
+}
+
+footer {
+  margin: 0 auto;
+  width: 640px;
+  text-align: left;
+  padding: 0px 12px;
+  font-size: 12px;
+}
+
+img {
+  height: 24px;
+  width: 74px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.modify-div {
+  padding: 0;
+}
+
+.option-section {
+  padding: 24px;
+  margin-bottom: 12px;
+}
+
+.blue-a {
+  color: #1a73e8;
+  text-decoration: underline;
+}
+
+.title-section {
+  padding: 0;
+}
+
+.head-div {
+  background-color: #673ab7;
+  border-radius: 8px 8px 0 0;
+  height: 10px;
+  padding: 0;
+}
+
+.title-div {
+  padding-left: 18px;
+  font-size: 14px;
+}
+
+.title-detail {
+  padding-left: 18px;
+  font-size: 14px;
+}
+
+.obligatory {
+  padding-left: 24px;
+  font-size: 14px;
+}
+
+.title-a {
+  padding-left: 36px;
+  font-size: 14px;
+}
+.gray-top {
+  border-top: 1px solid #dadce0;
+  padding: 0;
+}
+.red-asterisk {
+  color: #d93025;
+}
+.gray-word {
+  color: #5f6368;
+}
+.gray-bottom {
+  background-color: #0000001f;
+  height: 1px;
+  width: 600px;
+  padding: 0;
+}
+.gray-short-bottom {
+  background-color: #0000001f;
+  height: 1px;
+  width: 170px;
+  padding: 0;
+}
+.footer-center {
+  text-align: center;
+  color: #5f6368;
+}
+#report {
+  text-decoration: underline;
+  color: #5f6368;
+}
+
+.password-warn {
+  color: #5f6368;
+}
+.submit {
+  padding: 0px 24px;
+  color: #fff;
+  background-color: #673ab7;
+  border-radius: 8px;
+  font-size: 14px;
+}
+.button-section {
+  background-color: #f0ebf8;
+  border: none;
+  line-height: 36px;
+  padding: 0px;
+}
+.reset {
+  float: right;
+  color: #673ab7;
+}
+.img-link {
+  opacity: 0.55;
+  text-align: center;
+}
